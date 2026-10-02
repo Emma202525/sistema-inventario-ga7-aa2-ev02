@@ -1,0 +1,11 @@
+ENLACE DEL REPOSITORIO
+
+Nombre del proyecto: Sistema de Inventario para Tiendas
+Evidencia: GA7-220501096-AA2-EV02
+
+Pegar aquí el enlace del repositorio de GitHub después de crearlo:
+
+https://github.com/TU-USUARIO/sistema-inventario
+
+Ejemplo de nombre del repositorio:
+sistema-inventario-ga7-aa2-ev02
